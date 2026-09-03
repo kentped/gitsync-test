@@ -45,7 +45,7 @@
                       "kind": "DataQuery",
                       "spec": {
                         "editorMode": "code",
-                        "expr": "up",
+                        "expr": "uppp",
                         "legendFormat": "__auto",
                         "range": true
                       },
