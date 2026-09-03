@@ -27,7 +27,6 @@
       }
     ],
     "cursorSync": "Off",
-    "description": "",
     "editable": true,
     "elements": {
       "panel-1": {
@@ -44,7 +43,12 @@
                     "query": {
                       "group": "",
                       "kind": "DataQuery",
-                      "spec": {},
+                      "spec": {
+                        "editorMode": "code",
+                        "expr": "up",
+                        "legendFormat": "__auto",
+                        "range": true
+                      },
                       "version": "v0"
                     },
                     "refId": "A"
